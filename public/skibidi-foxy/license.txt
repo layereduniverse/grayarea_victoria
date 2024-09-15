@@ -1,0 +1,11 @@
+Model Information:
+* title:	skibidi-foxy
+* source:	https://sketchfab.com/3d-models/skibidi-foxy-bc9cf8e4e0994c5e99e45636091da0c6
+* author:	Stepanaan (https://sketchfab.com/Stepanaan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "skibidi-foxy" (https://sketchfab.com/3d-models/skibidi-foxy-bc9cf8e4e0994c5e99e45636091da0c6) by Stepanaan (https://sketchfab.com/Stepanaan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

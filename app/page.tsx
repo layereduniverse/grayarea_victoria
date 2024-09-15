@@ -6,7 +6,7 @@ import { Environment, Center, AccumulativeShadows, RandomizedLight, OrbitControl
 
 function Model() {
   // CHANGE MODEL
-  const { scene } = useGLTF("/tiger/scene.gltf");
+  const { scene } = useGLTF("/skibidi-foxy/scene.gltf");
 
   useMemo(() => {
     scene.traverse((child) => {
